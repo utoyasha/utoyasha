@@ -11,7 +11,6 @@
    	  - [1ый сайт](https://github.com/utoyasha/website-figure)
    	  - [2ой сайт](https://github.com/utoyasha/house_website)
    	  - [3ий сайт](https://github.com/utoyasha/sketch_website)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user&layout=compact)
 
 
 <!--
