@@ -9,8 +9,8 @@
 	- [Творчество](https://github.com/users/utoyasha/projects/2/views/1 "Моё хобби")
    	- Сайты:
    	  - [1ый сайт](https://github.com/utoyasha/website-figure)
-          - [2ой сайт](https://github.com/utoyasha/house_website)
-          - [3ий сайт](https://github.com/utoyasha/sketch_website)
+   	  - [2ой сайт](https://github.com/utoyasha/house_website)
+   	  - [3ий сайт](https://github.com/utoyasha/sketch_website)
 
 <!--
 **utoyasha/utoyasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
