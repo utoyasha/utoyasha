@@ -1,5 +1,6 @@
 ## Портфолио
-![ШОК ПОРТФОЛЬО !! ! !](https://github.com/user-attachments/assets/43e8d8f2-52af-4eee-9ffa-b8d01e007bbc)
+![ШОК ПОРТФОЛЬО !! ! !](https://github.com/user-attachments/assets/c67bb84b-5fb6-4b87-80fb-f590220eaf3f)
+
 ### Навигация
 - Путиводитель: 
 	- [Творчество](https://github.com/users/utoyasha/projects/2/views/1 "Моё хобби")
