@@ -1,4 +1,10 @@
 ## Портфолио
+### Frontend Developer | JavaScript | HTML/CSS
+
+💻 **Технологии:**  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![ШОК ПОРТФОЛЬО !! ! !](https://github.com/user-attachments/assets/c67bb84b-5fb6-4b87-80fb-f590220eaf3f)
 
 ### Навигация
