@@ -1,7 +1,8 @@
 ## Портфолио
 ### Frontend Developer | JavaScript | HTML/CSS
 
-![ШОК ПОРТФОЛЬО !! ! !](https://github.com/user-attachments/assets/c67bb84b-5fb6-4b87-80fb-f590220eaf3f)
+![ШОК ПОРТФОЛЬО !! ! !](https://github.com/user-attachments/assets/47f9471b-ca2b-4e52-8b8a-21ec143a0671)
+
 
 ### Навигация
 - Путиводитель: 
